@@ -9,9 +9,9 @@ import retrofit2.
 
 public class ApiClient {
 
-    public static ApiRequestInterface service() {
-        Retrofit retrofit = new Retrofit.Builder()
-                .addConverterFactory(GsonConverterFactory)
-    }
+//    public static ApiRequestInterface service() {
+//        Retrofit retrofit = new Retrofit.Builder()
+//                .addConverterFactory(GsonConverterFactory)
+//    }
 
 }
